@@ -1,16 +1,20 @@
-using UnityEngine;
+using System;
+using System.Collections.Generic;
 
-public class Class : MonoBehaviour
+public static class ListEssense
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public static void Shuffle<T>(List<T> list, int seed)
     {
-        
-    }
+        Random random = new Random(seed);
+        int n = list.Count;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        for (int i = n - 1; i > 0; i--)
+        {
+            int j = random.Next(i + 1);
+
+            T temp = list[i];
+            list[i] = list[j];
+            list[j] = temp;
+        }
     }
 }

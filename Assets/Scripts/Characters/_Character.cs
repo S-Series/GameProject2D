@@ -11,4 +11,5 @@ public class Character
 
     public virtual void BaseAttack() { }
     public virtual void SkillAttack() { }
+    public virtual void ForceEscape() { }
 }

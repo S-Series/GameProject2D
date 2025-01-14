@@ -1,0 +1,69 @@
+<!--Default Data
+	<Item id="">
+		<Name language="en"></Name>
+		<Name language="kr"></Name>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr"></Effect> 
+	</Item>
+-->
+<Items>
+	<Item id="WitchWand">
+		<Name language="en">Witch Wand</Name>
+		<Name language="kr">마녀의 지팡이</Name>
+		<Description language="en">A wand, spoils of vengeance</Description>
+		<Description language="kr">복수의 전리품!</Description>
+		<Effect language="en">Fires lasers periodically forward</Effect>
+		<Effect language="kr">일정 시간마다 바라보는 방향으로 레이저 공격</Effect>
+	</Item>
+	<Item id="WitchInsignia">
+		<Name language="en">Witch Insignia</Name>
+		<Name language="kr">마녀휘장</Name>
+		<Description language="en">Emblem Proving the Witch's Identity</Description>
+		<Description language="kr">마녀의 자격을 증명하는 휘장</Description>
+		<Effect language="en">???</Effect>
+		<Effect language="kr">???</Effect>
+	</Item>
+	<Item id="Coupon">
+		<Name language="en">Store Coupon</Name>
+		<Name language="kr">상점 할인권</Name>
+		<Description language="en">The bargen sale Event!</Description>
+		<Description language="kr">할인행사 절찬진행중!</Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr">상점 아이템을 반값으로 살 수 있다</Effect>
+	</Item>
+	<Item id="BlacksComb">
+		<Name language="en"></Name>
+		<Name language="kr"></Name>
+		<Description language="en">Symbol of Old friend</Description>
+		<Description language="kr">오랜 친구의 상징</Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr">최종 공격력 배율 x1.5</Effect>
+	</Item>
+	<Item id="Beer">
+		<Name language="en">Beer!</Name>
+		<Name language="kr">맥주!</Name>
+		<Description language="en">Yeah~ This is what we live for!</Description>
+		<Description language="kr">그래! 바로 이거지!</Description>
+		<Effect language="en">Decrease Run speed, Infinite Stamina</Effect>
+		<Effect language="kr">달리기 속도감소, 스태미나 무제한</Effect> 
+	</Item>
+
+	<Item id="Snacks">
+		<Name language="en">Backup Snacks</Name>
+		<Name language="kr">비상식량</Name>
+		<Description language="en">Pa**on?....</Description>
+		<Description language="kr">페X몬?....</Description>
+		<Effect language="en">Restore 10 Health</Effect>
+		<Effect language="kr">체력을 10회복</Effect> 
+	</Item>
+	<Item id="CheatCoin">
+		<Name language="en">Cheat Coin</Name>
+		<Name language="kr">사기꾼의 동전</Name>
+		<Description language="en">The fake money</Description>
+		<Description language="kr">위조지폐</Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr">주변의 동전들을 일시적인 금화로 변경</Effect> 
+	</Item>
+</Items>
