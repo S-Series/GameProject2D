@@ -1,0 +1,191 @@
+<!--Default Data
+	<Item id="">
+		<Name language="en"></Name>
+		<Name language="kr"></Name>
+		<Subtitle language="en"></Subtitle>
+		<Subtitle language="kr"></Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr"></Effect> 
+	</Item>
+-->
+<Items>
+	<!-- Passive Items -->
+	<Item id="WitchWand">
+		<!-- 마녀세트 ( 01 / 05 ) -->
+		<Name language="en">Witch's Wand</Name>
+		<Name language="kr">마녀의 지팡이</Name>
+		<Subtitle language="en">A wand of vengeance</Subtitle>
+		<Subtitle language="kr">복수의 전리품!</Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en">Attack with light</Effect>
+		<Effect language="kr">레이저 공격으로 변경</Effect>
+	</Item>
+	<Item id="WitchPendant">
+		<!-- 마녀세트 ( 02 / 05 ) -->
+		<Name language="en">Witch's Pendant</Name>
+		<Name language="kr">마녀휘장</Name>
+		<Subtitle language="en">Emblem Proving the Witch's Identity</Subtitle>
+		<Subtitle language="kr">마녀의 자격을 증명하는 휘장</Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en">???</Effect>
+		<Effect language="kr">???</Effect>
+	</Item>
+	<Item id="Coupon">
+		<!-- 세트없음 -->
+		<Name language="en">Store Coupon</Name>
+		<Name language="kr">상점 할인권</Name>
+		<Subtitle language="en">The bargen sale Event!</Subtitle>
+		<Subtitle language="kr">할인행사 절찬진행중!</Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr">상점 아이템을 반값으로 살 수 있다</Effect>
+	</Item>
+	<Item id="BlacksComb">
+		<!-- 우정세트 ( 01 / 03 ) -->
+		<Name language="en">Black's Comb</Name>
+		<Name language="kr">붉은 친구의 왕관</Name>
+		<Subtitle language="en">Symbol of Old friend</Subtitle>
+		<Subtitle language="kr">오랜 친구의 상징</Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr">최종 공격력 배율 x1.5</Effect>
+	</Item>
+	<Item id="BlacksBeak">
+		<!-- 우정세트 ( 02 / 03 ) -->
+		<Name language="en">Black's Beak</Name>
+		<Name language="kr">이름 뭘로하지</Name>
+		<Subtitle language="en">Beak blast!</Subtitle>
+		<Subtitle language="kr">부리캐논!</Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en">Impaling Attack</Effect>
+		<Effect language="kr">관통공격</Effect> 
+	</Item>
+	<Item id="BlacksFeather">
+		<!-- 우정세트 ( 03 / 03 ) -->
+		<Name language="en">Black's Feather</Name>
+		<Name language="kr">친구의 깃털</Name>
+		<Subtitle language="en">Graceful yet Majestic</Subtitle>
+		<Subtitle language="kr">가볍고 늠름하게</Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en">Speed Increase, Luck +1</Effect>
+		<Effect language="kr">이동속도 증가, 행운 +1</Effect> 
+	</Item>
+	<Item id="Beer">
+		<!-- 세트없음 -->
+		<Name language="en">Beer!</Name>
+		<Name language="kr">맥주!</Name>
+		<Subtitle language="en">Yeah~ This is what we live for!</Subtitle>
+		<Subtitle language="kr">그래! 바로 이거지!</Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en">Decrease Run speed, Infinite Stamina</Effect>
+		<Effect language="kr">달리기 속도감소, 스태미나 무제한</Effect> 
+	</Item>
+	<Item id="Camera">
+		<!-- S&C 세트 ( 01 / 03 ) -->
+		<Name language="en"></Name>
+		<Name language="kr">작은 카메라</Name>
+		<Subtitle language="en"></Subtitle>
+		<Subtitle language="kr"></Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr">누군가 사용하던 목에 걸 수 있는 소형 카메라이다\n어째서인지 안에 찍혀있는 사진들은 볼 수 없다</Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr"></Effect>
+	</Item>
+	<Item id="Dalma">
+		<!-- S&C 세트 ( 02 / 03 ) -->
+		<Name language="en"></Name>
+		<Name language="kr">달마상</Name>
+		<Subtitle language="en"></Subtitle>
+		<Subtitle language="kr"></Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr"></Effect>
+	</Item>
+	<Item id="Sasmata">
+		<!-- S&C 세트 ( 03 / 03 ) -->
+		<Name language="en"></Name>
+		<Name language="kr">ㅅㅏㅅㅡㅁㅏㅌㅏ</Name>
+		<Subtitle language="en"></Subtitle>
+		<Subtitle language="kr"></Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr">사용감 있는 제압용 막대기\n살상용으로는 사용하지 못할 것 같다</Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr"></Effect>
+	</Item>
+	<Item id="Butterfly">
+		<!-- 꿈 세트 ( 01 / 04 ) -->
+		<Name language="en"></Name>	
+		<Name language="kr">몽환의 나비</Name>
+		<Subtitle language="en"></Subtitle>
+		<Subtitle language="kr">꿈의 인도자</Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr">플레이어 주변을 날아다니며 적을 추적해 고정데미지를 준다</Effect>
+	</Item>
+	<Item id="RoseHat">
+		<!-- 꿈 세트 ( 02 / 04 ) -->
+		<Name language="en"></Name>
+		<Name language="kr">장미장식 실크햇</Name>
+		<Subtitle language="en"></Subtitle>
+		<Subtitle language="kr">어쩐지 악몽을 꾸게될 것 같다...</Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr">붉은장미로 장식되어있는 검은 실크햇\n알 수 없는 강력한 기운이 모자로부터 느껴진다</Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr">꿈체력 +4</Effect>
+	</Item>
+	<Item id="Soulcage">
+		<!-- 꿈 세트 ( 03 / 04 ) -->
+		<Name language="en"></Name>
+		<Name language="kr">새장 속 영혼</Name>
+		<Subtitle language="en"></Subtitle>
+		<Subtitle language="kr"></Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr"></Effect>
+	</Item>
+	<Item id="ButterflyRing">
+		<!-- 꿈 세트 ( 04 / 04 ) -->
+		<Name language="en"></Name>
+		<Name language="kr">나비문양 반지</Name>
+		<Subtitle language="en"></Subtitle>
+		<Subtitle language="kr"></Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr">행운 +1</Effect>
+	</Item>
+	
+	<!-- Active Items -->
+	<Item id="Snacks">
+		<Name language="en">Backup Snacks</Name>
+		<Name language="kr">비상식량</Name>
+		<Subtitle language="en">Pa**on?....</Subtitle>
+		<Subtitle language="kr">페X몬?....</Subtitle>
+		<Description language="en"></Description>	
+		<Description language="kr"></Description>
+		<Effect language="en">Restore 2 Health</Effect>
+		<Effect language="kr">체력 2회복</Effect> 
+	</Item>
+	<Item id="CheatCoin">
+		<Name language="en">Cheat Coin</Name>
+		<Name language="kr">사기꾼의 동전</Name>
+		<Subtitle language="en">The fake money</Subtitle>
+		<Subtitle language="kr">위조지폐</Subtitle>
+		<Description language="en"></Description>
+		<Description language="kr"></Description>
+		<Effect language="en"></Effect>
+		<Effect language="kr">주변의 동전들을 일시적인 금화로 변경</Effect> 
+	</Item>
+</Items>
