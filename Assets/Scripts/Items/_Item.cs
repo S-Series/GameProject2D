@@ -28,8 +28,9 @@ public class Item
     public short quality { get; set; }
     public bool isActive { get; set; }
 
-    public string[][] itemData = new string[3][]{
+    public string[][] itemData = new string[4][]{
         new string[2]{"en", "kr"},  //$ Item Name
+        new string[2]{"en", "kr"},  //$ Item Suptitle
         new string[2]{"en", "kr"},  //$ Item Description
         new string[2]{"en", "kr"}   //$ Item Effect
     };
@@ -53,7 +54,7 @@ public class WitchWand : Item
         coolDown = 0;
         quality = 0;
         isActive = false;
-        itemData = new string[3][];
+        itemData = new string[4][];
     }
 }
 //$ ItemID: 0002
@@ -71,7 +72,7 @@ public class WitchPendant : Item
         coolDown = 0;
         quality = 0;
         isActive = false;
-        itemData = new string[3][];
+        itemData = new string[4][];
     }
 }
 //$ ItemID: 0003
@@ -89,7 +90,7 @@ public class Coupon : Item
         coolDown = 0;
         quality = 0;
         isActive = false;
-        itemData = new string[3][];
+        itemData = new string[4][];
     }
 }
 //$ ItemID: 0004
@@ -107,7 +108,7 @@ public class BlacksComb : Item
         coolDown = 0;
         quality = 0;
         isActive = false;
-        itemData = new string[3][];
+        itemData = new string[4][];
     }
 }
 //$ ItemID: 0005
@@ -125,7 +126,7 @@ public class BlacksBeak : Item
         coolDown = 0;
         quality = 0;
         isActive = false;
-        itemData = new string[3][];
+        itemData = new string[4][];
     }
 }
 //$ ItemID: 0006
@@ -143,7 +144,7 @@ public class BlacksFeather : Item
         coolDown = 0;
         quality = 0;
         isActive = false;
-        itemData = new string[3][];
+        itemData = new string[4][];
     }
 }
 //$ ItemID: 0007
@@ -161,7 +162,7 @@ public class Beer : Item
         coolDown = 0;
         quality = 0;
         isActive = false;
-        itemData = new string[3][];
+        itemData = new string[4][];
     }
 }
 
@@ -180,7 +181,7 @@ public class Snacks : Item
         coolDown = 0;
         quality = 0;
         isActive = true;
-        itemData = new string[3][];
+        itemData = new string[4][];
     }
 }
 //$ ItemID: 1002
@@ -198,6 +199,6 @@ public class CheatCoin : Item
         coolDown = 0;
         quality = 0;
         isActive = true;
-        itemData = new string[3][];
+        itemData = new string[4][];
     }
 }

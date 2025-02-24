@@ -19,7 +19,7 @@
 		<Subtitle language="en">A wand of vengeance</Subtitle>
 		<Subtitle language="kr">복수의 전리품!</Subtitle>
 		<Description language="en"></Description>
-		<Description language="kr"></Description>
+		<Description language="kr">"드디어 그 자식에게 복수를 성공했어"\n"내가 계속 순순히 실험대가 되어줄거라 생각했나보지?"</Description>
 		<Effect language="en">Attack with light</Effect>
 		<Effect language="kr">레이저 공격으로 변경</Effect>
 	</Item>
@@ -30,7 +30,7 @@
 		<Subtitle language="en">Emblem Proving the Witch's Identity</Subtitle>
 		<Subtitle language="kr">마녀의 자격을 증명하는 휘장</Subtitle>
 		<Description language="en"></Description>
-		<Description language="kr"></Description>
+		<Description language="kr">마녀임을 입증할 수 있는 휘장이다\n이거를 어디에 사용할 수 있지?...</Description>
 		<Effect language="en">???</Effect>
 		<Effect language="kr">???</Effect>
 	</Item>
@@ -43,7 +43,7 @@
 		<Description language="en"></Description>
 		<Description language="kr"></Description>
 		<Effect language="en"></Effect>
-		<Effect language="kr">상점 아이템을 반값으로 살 수 있다</Effect>
+		<Effect language="kr">상점 아이템을 반값으로 구매가능</Effect>
 	</Item>
 	<Item id="BlacksComb">
 		<!-- 우정세트 ( 01 / 03 ) -->
@@ -124,10 +124,11 @@
 	</Item>
 	<Item id="Butterfly">
 		<!-- 꿈 세트 ( 01 / 04 ) -->
+		<!-- 펫 세트 ( 01 / ?? ) -->
 		<Name language="en"></Name>	
 		<Name language="kr">몽환의 나비</Name>
 		<Subtitle language="en"></Subtitle>
-		<Subtitle language="kr">꿈의 인도자</Subtitle>
+		<Subtitle language="kr">꿈세계의 길잡이</Subtitle>
 		<Description language="en"></Description>
 		<Description language="kr"></Description>
 		<Effect language="en"></Effect>
@@ -149,22 +150,22 @@
 		<Name language="en"></Name>
 		<Name language="kr">새장 속 영혼</Name>
 		<Subtitle language="en"></Subtitle>
-		<Subtitle language="kr"></Subtitle>
+		<Subtitle language="kr">영원한 속박</Subtitle>
 		<Description language="en"></Description>
 		<Description language="kr"></Description>
 		<Effect language="en"></Effect>
 		<Effect language="kr"></Effect>
 	</Item>
-	<Item id="ButterflyRing">
+	<Item id="Lucidmask">
 		<!-- 꿈 세트 ( 04 / 04 ) -->
 		<Name language="en"></Name>
-		<Name language="kr">나비문양 반지</Name>
+		<Name language="kr">의지가 깃든 가면</Name>
 		<Subtitle language="en"></Subtitle>
 		<Subtitle language="kr"></Subtitle>
 		<Description language="en"></Description>
-		<Description language="kr"></Description>
+		<Description language="kr">누군가의 간절한 소망이 담겨있는 가면\n어째서인지 가면이 나를 응시하고 있는것같다</Description>
 		<Effect language="en"></Effect>
-		<Effect language="kr">행운 +1</Effect>
+		<Effect language="kr">???</Effect>
 	</Item>
 	
 	<!-- Active Items -->
@@ -174,7 +175,7 @@
 		<Subtitle language="en">Pa**on?....</Subtitle>
 		<Subtitle language="kr">페X몬?....</Subtitle>
 		<Description language="en"></Description>	
-		<Description language="kr"></Description>
+		<Description language="kr">머리를 내려치면 체력을 뱉는 인형\n어딘가의 누군가와 닮은것같지만 무시하자</Description>
 		<Effect language="en">Restore 2 Health</Effect>
 		<Effect language="kr">체력 2회복</Effect> 
 	</Item>
@@ -184,8 +185,8 @@
 		<Subtitle language="en">The fake money</Subtitle>
 		<Subtitle language="kr">위조지폐</Subtitle>
 		<Description language="en"></Description>
-		<Description language="kr"></Description>
+		<Description language="kr">손은 눈보다 빠르다\n언제나 그래왔듯이...</Description>
 		<Effect language="en"></Effect>
-		<Effect language="kr">주변의 동전들을 일시적인 금화로 변경</Effect> 
+		<Effect language="kr">주변의 동전들을 일시적인 금화로 변경한다다</Effect> 
 	</Item>
 </Items>
